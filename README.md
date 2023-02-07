@@ -18,10 +18,6 @@ eatfast is a fully responsive food delivery website, <br />Responsive for all de
 
 <br />
 
-### Demo Screeshots
-
-![eatfast Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
